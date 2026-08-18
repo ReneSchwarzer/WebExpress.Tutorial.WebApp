@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WebApp.App/WebExpress.Tutorial.WebApp.App.csproj" />
+  <Project Path="WebApp/WebExpress.Tutorial.WebApp.csproj" />
+</Solution>
